@@ -1,4 +1,4 @@
-#Auxcoformer: Auxiliary and Contrastive Transformer for Robust Crack Detection in Adverse Weather Conditions
+# Auxcoformer: Auxiliary and Contrastive Transformer for Robust Crack Detection in Adverse Weather Conditions
 
 Jae Hyun Yoon, Jong Won Jung, Seok Bong Yoo*
 
