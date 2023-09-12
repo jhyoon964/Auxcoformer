@@ -11,5 +11,6 @@ Jae Hyun Yoon, Jong Won Jung, Seok Bong Yoo*
 ```
 # Train
 python train.py
+
 # Test
 python val.py
