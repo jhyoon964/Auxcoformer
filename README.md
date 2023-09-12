@@ -13,3 +13,11 @@ Jae Hyun Yoon, Jong Won Jung, Seok Bong Yoo*
 python train.py
 # Test
 python val.py
+
+## Training & Testing
+```
+# train
+bash scripts/dist_train.sh
+
+# test
+bash scripts/dist_test.sh
