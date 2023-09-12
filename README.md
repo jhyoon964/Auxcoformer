@@ -6,3 +6,10 @@ Jae Hyun Yoon, Jong Won Jung, Seok Bong Yoo*
 
 
 ![Fig_2](https://github.com/jhyoon964/Auxcoformer/assets/144157648/82200c37-a3ba-46b1-95a4-831d9bd67611)
+
+## Training & Testing
+'''
+# Train
+python train.py
+# Test
+python val.py
