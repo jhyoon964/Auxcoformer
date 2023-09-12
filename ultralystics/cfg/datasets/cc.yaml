@@ -1,0 +1,28 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# COCO8 dataset (first 8 images from COCO train2017) by Ultralytics
+# Example usage: yolo train data=coco8.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── coco8  ← downloads here (1 MB)
+
+
+# train: D:/CRACK_DATASETS/Crack_datasets/resized_pavement/images/train
+# val: D:/CRACK_DATASETS/Crack_datasets/resized_pavement/images/val
+train: D:/Crack/Crack/concreteCrackSegmentationDataset/cc_weather/images/train
+
+# #restormer
+# train: 
+val: D:/Crack/Crack/concreteCrackSegmentationDataset/cc_weather/images/val
+
+
+
+
+# # split datasets 480 120
+# train: D:/CRACK_DATASETS/split_datasets/images/train
+# val: D:/CRACK_DATASETS/split_datasets/images/val
+
+names:
+  0: crack
+
+download:
