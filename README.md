@@ -15,7 +15,7 @@ https://github.com/jhyoon964/Auxcoformer/assets/144157648/c313c38d-f7ec-4f51-bb2
 
 
 ## Pretrain weights
-'''
+
 EDMCrack600 : https://drive.google.com/file/d/1TlJEatPB636OMnmqhX8EQQBAbhX9vzwl/view?usp=drive_link
 
 DeepCrack : https://drive.google.com/file/d/1Ck-lOi5FwyyhFioqGEfzVK1DEEOBiuGO/view?usp=drive_link
